@@ -3,9 +3,10 @@ In colaboration with Marlea Martens, we are going to do a variation of the dinin
 
 ## How It's Made:
 **Tech used:** C, Raylib
+
 Using Raylib as the framework for our graphics, we model OS resource allocation in concurrent systems.
 
-## Get raylib going
+## Get Started With Raylib 
 First we need to grab raylib and build it.
 
 Let's put raylib outside this github repo (we don't want to check in the entire thing).
@@ -30,3 +31,16 @@ $ code ../examples/core/core_input_keys.c # change the program
 $ make
 $ examples/core_input_keys
 ```
+
+## Resources
+We used the following sources for help:
+- https://www.raylib.com/examples/audio/loader.html?name=audio_music_stream
+- https://www.reddit.com/r/raylib/comments/arftyc/how_do_i_use_the_rlglh_library_especially_the/
+- https://www.youtube.com/watch?v=MM0SGuh-Ims
+- https://www.youtube.com/watch?v=0Ct9ZWEUm7M
+- https://www.youtube.com/watch?v=vGlvTWUctTQ
+- https://github.com/raysan5/raylib/discussions/2835
+- https://www.raylib.com/cheatsheet/raymath_cheatsheet.html
+- https://www.raylib.com/examples/models/loader.html?name=models_rlgl_solar_system
+- https://pixabay.com/sound-effects/search/clock/
+
