@@ -1,4 +1,4 @@
-# dinning_phylosophers
+# dining_philosophers
 In colaboration with Marlea Martens, we are going to do a variation of the dining philosophers. The idea is we have a table, and we have a set number of philosophers (dpeending on the level). The amount of forks are equivalent to the number of philosophers. The objective is to keep all of the philosophers happy, by feeding them, since they think so hard. Each philosopher has a timer, and when the timer hits 0 for any philosopher, the game ends and the user loses. If the user manages to keep them all alive for the total time (in the center of the table), the user wins. When eating, the forks also operate on a timer, of 2 seconds. No two philosophers can use the same fork at the same time, so it's overall just a game about resource management.
 
 ## How It's Made:
